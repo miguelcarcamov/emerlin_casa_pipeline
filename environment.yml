@@ -14,7 +14,7 @@ dependencies:
 - pip:
   - almatasks==1.6.1
   - aplpy==2.1.0
-  - astropy==5.1.1
+  - astropy==5.3
   - astroquery==0.4.6
   - casadata==2023.4.10
   - casampi==0.5.3
